@@ -1,5 +1,9 @@
 # Bevy Aseprite Ultra
 
+# Now looking at this with a critical eye this was not the fix I was looking for and would need deeper more structural changes. 
+# Still dunno how I'd do controlling an animation's current frame or a 'progress', from 0. -> 1.
+# I'll keep searching
+
 [![License: MIT or Apache 2.0](https://img.shields.io/badge/License-MIT%20or%20Apache2-blue.svg)](./LICENSE)
 [![Crate](https://img.shields.io/crates/v/bevy_aseprite_ultra.svg)](https://crates.io/crates/bevy_aseprite_ultra)
 
